@@ -19,6 +19,7 @@ Reconstruir padrões históricos esquecidos por meio da análise simbólica estr
 - Canalizações modernas
 - Mitologia e folclore
 - História tradicional e linguística comparada
+- Rastro Cultural e Linguístico
 
 ---
 
